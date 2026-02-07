@@ -1,23 +1,12 @@
-# ML2025_lectures
-This is a repository containing the lectures for the Machine Learning course (MA060018) in Skoltech, which is held at Term 3, 2025.
+# ML2026_lectures
+This is a repository containing the lectures for the Machine Learning course (MA060018) in Skoltech, which is held at Term 3, 2026.
 
 ## The list of the current lectures published (will be updated with time):
 
-- LECTURE 1 (04.02) - Introduction Lecture
-- LECTURE 2 (06.02) - Regression
-- LECTURE 3 (07.02) - Classification
-- LECTURE 4 (11.02) - Decision Trees
-- LECTURE 5 (14.02) - Adaboost and Gradient Boosting
-- LECTURE 6 (18.02) - Imbalanced data
-- LECTURE 7 (20.02) - Model_and_Feature_Selection
-- LECTURE 8 (21.02) - Gaussian Process
-- LECTURE 9 (28.02)- Shallow Artificial Neural Networks
-- LECTURE 10 (04.03): Deep ANN
-- LECTURE 11 (06.03): Attention and Transformers.
-- LECTURE 12 (07.03): Dimensionality Reduction
-- LECTURE 13 (11.03): Anomaly Detection
-- LECTURE 14 (13.03): Unsupervised ML: Clustering
-- LECTURE 15 (14.03): Uncertainty Quantification
+- LECTURE 1 (03.02) - Introduction Lecture
+- LECTURE 2 (05.02) - Regression
+- LECTURE 3 (06.02) - Classification
+
 
 
 ## Course Description:
@@ -33,7 +22,7 @@ On completion of the course students are expected to:
 
 ## Seminars:
 
-The seminars of the course can be accessed via the [link](https://github.com/adasegroup/ML2025_seminars)
+The seminars of the course can be accessed via the [link](https://github.com/adasegroup/ML_2026_Seminars)
 
 ## Contact regarding this github repo:
 
