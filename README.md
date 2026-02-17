@@ -6,6 +6,7 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 1 (03.02) - Introduction Lecture
 - LECTURE 2 (05.02) - Regression
 - LECTURE 3 (06.02) - Classification
+- LECTURE 6 (17.02) - Gradient boosting
 
 
 
